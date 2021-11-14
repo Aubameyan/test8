@@ -72,4 +72,4 @@ View(fulldatapast_easterneurope)
 #Plot below shows happiness trends of Eastern European countries
 trendplot = ggplot(fulldatapast_easterneurope,aes(x=year,y=Ladder.score,col=Country.name))+geom_line(size=1)+ggtitle("Happiness Score Trend of Eastern European Countries")
 trendplot
-
+#yo
