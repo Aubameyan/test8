@@ -1,0 +1,4 @@
+C:\Users\marcu\AppData\Local\R-MINI~1
+C:\Users\marcu\AppData\Local\R-MINI~1\envs\r-reticulate
+C:\Users\marcu\AppData\Local\r-miniconda\envs\r-reticulate
+C:\Users\marcu\anaconda3
